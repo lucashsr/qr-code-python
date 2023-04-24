@@ -1,0 +1,1 @@
+programa em python que codifica e decodifica qr code
